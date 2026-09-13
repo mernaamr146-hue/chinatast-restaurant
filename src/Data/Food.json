@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Kung Pao Chicken",
+    "description": "Tender chicken with peanuts, vegetables and dried chilies in a savory Sichuan-style sauce.",
+    "price": 180,
+    "category": "Chicken",
+    "rating": 4.8,
+    "popular": true,
+    "spicy": true,
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kung_Pao_chicken_dish.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Sweet and Sour Chicken",
+    "description": "Crispy chicken served with pineapple, peppers and a sweet and sour sauce.",
+    "price": 170,
+    "category": "Chicken",
+    "rating": 4.6,
+    "popular": true,
+    "spicy": false,
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sweet_%26_Sour_Chicken_%282285931298%29.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Orange Chicken",
+    "description": "Crispy chicken coated in a sweet and tangy orange sauce.",
+    "price": 175,
+    "category": "Chicken",
+    "rating": 4.7,
+    "popular": true,
+    "spicy": false,
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Orange_Chicken_%282829981982%29.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Peking Duck",
+    "description": "Traditional roasted duck with crispy skin and tender meat.",
+    "price": 280,
+    "category": "Duck",
+    "rating": 4.9,
+    "popular": true,
+    "spicy": false,
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Peking_duck_%283186301842%29.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mapo Tofu",
+    "description": "Soft tofu cooked in a spicy Sichuan sauce with fermented beans and chili.",
+    "price": 150,
+    "category": "Tofu",
+    "rating": 4.7,
+    "popular": true,
+    "spicy": true,
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mapo_tofu_%28%E9%BA%BB%E5%A9%86%E8%B1%86%E8%85%90%29_%284281565846%29.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Chicken Chow Mein",
+    "description": "Stir-fried noodles with chicken and fresh vegetables.",
+    "price": 165,
+    "category": "Noodles",
+    "rating": 4.8,
+    "popular": true,
+    "spicy": false,
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Chinese_Chicken_Chow_Mein.JPG"
+  },
+  {
+    "id": 7,
+    "name": "Chow Mein",
+    "description": "Stir-fried Chinese noodles served with vegetables and savory sauce.",
+    "price": 145,
+    "category": "Noodles",
+    "rating": 4.5,
+    "popular": false,
+    "spicy": false,
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Chow_mein.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Chinese Fried Rice",
+    "description": "Fragrant fried rice cooked with vegetables and traditional Chinese seasoning.",
+    "price": 130,
+    "category": "Rice",
+    "rating": 4.6,
+    "popular": true,
+    "spicy": false,
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Chinese_Fried_Rice.JPG"
+  },
+  {
+    "id": 9,
+    "name": "Chinese Dumplings",
+    "description": "Traditional Chinese dumplings filled with seasoned ingredients.",
+    "price": 110,
+    "category": "Appetizers",
+    "rating": 4.8,
+    "popular": true,
+    "spicy": false,
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Chinese_Dumplings.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Wonton Soup",
+    "description": "Warm Chinese soup with delicate wontons in a flavorful broth.",
+    "price": 100,
+    "category": "Soup",
+    "rating": 4.7,
+    "popular": true,
+    "spicy": false,
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wonton_soup_at_65_Huguosi_St_%2820211221172925%29.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Vegetable Fried Rice",
+    "description": "Fried rice combined with fresh vegetables and savory seasonings.",
+    "price": 120,
+    "category": "Rice",
+    "rating": 4.4,
+    "popular": false,
+    "spicy": false,
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Chinese_fried_rice_with_broccoli_and_eggs.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Chicken Fried Rice",
+    "description": "Fried rice with tender chicken, vegetables and soy sauce.",
+    "price": 150,
+    "category": "Rice",
+    "rating": 4.7,
+    "popular": true,
+    "spicy": false,
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/ChineseFriedRice1.jpg"
+  }
+]
