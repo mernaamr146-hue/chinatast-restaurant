@@ -1,4 +1,4 @@
-##Features
+## Features
 
 - 🔎 Search for dishes
 - 🏷️ Filter dishes by category
@@ -10,7 +10,7 @@
 - ✨ Smooth animations and scroll effects
 
 
-##Tech Stack
+## Tech Stack
 
 - React.js
 - JavaScript
